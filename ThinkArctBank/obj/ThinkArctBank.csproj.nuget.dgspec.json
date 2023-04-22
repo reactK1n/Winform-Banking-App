@@ -1,0 +1,273 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank\\ThinkArctBank.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.BusinessLogic\\ThinkArctBank.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.BusinessLogic\\ThinkArctBank.BusinessLogic.csproj",
+        "projectName": "ThinkArctBank.BusinessLogic",
+        "projectPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.BusinessLogic\\ThinkArctBank.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\sadeosun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sadeosun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.DataBase\\ThinkArctBank.DataBase.csproj": {
+                "projectPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.DataBase\\ThinkArctBank.DataBase.csproj"
+              },
+              "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.Model\\ThinkArctBank.Model.csproj": {
+                "projectPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.Model\\ThinkArctBank.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.DataBase\\ThinkArctBank.DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.DataBase\\ThinkArctBank.DataBase.csproj",
+        "projectName": "ThinkArctBank.DataBase",
+        "projectPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.DataBase\\ThinkArctBank.DataBase.csproj",
+        "packagesPath": "C:\\Users\\sadeosun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sadeosun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.Model\\ThinkArctBank.Model.csproj": {
+                "projectPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.Model\\ThinkArctBank.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.Model\\ThinkArctBank.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.Model\\ThinkArctBank.Model.csproj",
+        "projectName": "ThinkArctBank.Model",
+        "projectPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.Model\\ThinkArctBank.Model.csproj",
+        "packagesPath": "C:\\Users\\sadeosun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sadeosun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank\\ThinkArctBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank\\ThinkArctBank.csproj",
+        "projectName": "ThinkArctBank",
+        "projectPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank\\ThinkArctBank.csproj",
+        "packagesPath": "C:\\Users\\sadeosun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sadeosun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.BusinessLogic\\ThinkArctBank.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.BusinessLogic\\ThinkArctBank.BusinessLogic.csproj"
+              },
+              "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.Model\\ThinkArctBank.Model.csproj": {
+                "projectPath": "C:\\Users\\sadeosun\\source\\repos\\ThinkArctBankDemo\\ThinkArctBank.Model\\ThinkArctBank.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\bin\Debug\net5.0\ThinkArctBank.Model.deps.json
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\bin\Debug\net5.0\ThinkArctBank.Model.dll
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\bin\Debug\net5.0\ref\ThinkArctBank.Model.dll
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\bin\Debug\net5.0\ThinkArctBank.Model.pdb
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\obj\Debug\net5.0\ThinkArctBank.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\obj\Debug\net5.0\ThinkArctBank.Model.AssemblyInfoInputs.cache
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\obj\Debug\net5.0\ThinkArctBank.Model.AssemblyInfo.cs
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\obj\Debug\net5.0\ThinkArctBank.Model.csproj.CoreCompileInputs.cache
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\obj\Debug\net5.0\ThinkArctBank.Model.dll
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\obj\Debug\net5.0\ref\ThinkArctBank.Model.dll
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\obj\Debug\net5.0\ThinkArctBank.Model.pdb
+C:\Users\sadeosun\source\repos\ThinkArctBankDemo\ThinkArctBank.Model\obj\Debug\net5.0\ThinkArctBank.Model.csproj.AssemblyReference.cache
